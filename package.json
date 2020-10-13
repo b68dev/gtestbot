@@ -33,7 +33,7 @@
         "mathjs": ">=3.0",
         "moment": ">=2.0",
         "money": "*",
-        "mongoose": ">=4.5.0",
+        "mongoose": ">=5.7.5",
         "mongoose-findorcreate": ">=0.1.2",
         "node-base64-image": ">=1.0.1",
         "object-sizeof": ">=1.0",
