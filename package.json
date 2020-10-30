@@ -37,7 +37,7 @@
         "mongoose-findorcreate": ">=0.1.2",
         "node-base64-image": ">=1.0.1",
         "object-sizeof": ">=1.0",
-        "parse-duration": "*",
+        "parse-duration": "0.4.4",
         "passport": ">=0.3.2",
         "passport-discord": ">=0.1.1",
         "passport.socketio": "*",
