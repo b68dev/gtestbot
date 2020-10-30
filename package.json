@@ -24,7 +24,7 @@
         "bluebird": "*",
         "bufferutil": "*",
         "domain": "*",
-        "eventemitter3": "*",
+        "eventemitter3": "4.0.7",
         "express": ">=4.0.0",
         "goo.gl": "*",
         "google": ">=2.0",
