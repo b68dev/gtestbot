@@ -46,7 +46,7 @@
         "remove-markdown": "*",
         "searchitunes": "*",
         "showdown": "*",
-        "socket.io": ">=1.4.0",
+        "socket.io": ">=2.4.0",
         "text-diff": ">=1.0",
         "unirest": "*",
         "urban": ">=0.3",
