@@ -35,7 +35,7 @@
         "money": "*",
         "mongoose": ">=5.7.5",
         "mongoose-findorcreate": ">=0.1.2",
-        "node-base64-image": ">=1.0.1",
+        "node-base64-image": ">=2.0.0",
         "object-sizeof": ">=1.0",
         "parse-duration": "*",
         "passport": ">=0.3.2",
